@@ -1,1 +1,1 @@
-find it at Leezy/.ssh
+find it at leezy/.ssh
